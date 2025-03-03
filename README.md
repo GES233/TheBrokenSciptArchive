@@ -1,4 +1,4 @@
-# TheBrokenSciptArchive
+# TheBrokenScriptArchive
 Archive of The-Broken-Script Mods. 
 
 ## DISCLAIMER
